@@ -35,4 +35,6 @@ Farmers, Experts, Admin, Land Owners
 
 Isolated Entity: Customer	
 
-2. Government Organizations: Distributors, Officers
+2. Government 
+
+Organizations: Distributors, Officers
