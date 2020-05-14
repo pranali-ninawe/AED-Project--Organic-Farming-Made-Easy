@@ -27,7 +27,7 @@ Farmers are faced with new challenges and opportunities every day:
 
 ## Enterprise:
 
-1.Agriculture
+1. Agriculture
 
 Organizations:
 
@@ -35,4 +35,4 @@ Farmers, Experts, Admin, Land Owners
 
 Isolated Entity: Customer	
 
-2.Government Organizations: Distributors, Officers
+2. Government Organizations: Distributors, Officers
